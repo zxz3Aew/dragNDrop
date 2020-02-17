@@ -1,0 +1,18 @@
+#leftBox{
+    border: 3px dashed rgb(149, 175, 110);
+    width: 280px;
+    height: 280px;
+    padding: 5px;
+    float: left;
+    margin: 10px;
+}
+
+#rightBox{
+    border: 3px dashed #496da3;
+    width: 280px;
+    height: 280px;
+    padding: 5px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}

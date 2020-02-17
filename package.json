@@ -1,0 +1,13 @@
+{
+    "name": "DragNDrop",
+    "version": "1.0.0",
+    "description": "Simple photo drag n drop",
+    "scripts": {
+      "devserver": "live-server"
+    },
+    "author": "BauLi",
+    "license": "ISC",
+    "devDependencies": {
+      "node-sass": "^4.13.1"
+    }
+  }
